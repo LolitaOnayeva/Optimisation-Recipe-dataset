@@ -14,10 +14,12 @@ To download dataset : https://www.kaggle.com/datasets/alihassanrevel/recipes/dow
  
  
  Process: 
+ 
  --Expolore the dataset and modify it (calculate proportions of calories, cholesterol, protein ,sugar and carbohydrates per serving) 
  --Set the objective function
  --Set constraints
  --Observe results 
  
  Limitations: 
+ 
  --Since the purpose of this excersise is to practice problem solving using the optimization functions (such as PuLP), results may not be logically the best solution. Further work may involve dataset modification. 
