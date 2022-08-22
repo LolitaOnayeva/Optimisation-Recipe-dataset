@@ -1,4 +1,4 @@
-# Optimisation-Recipe-dataset
+# Optimisation: Recipe Dataset
 
 To download dataset : https://www.kaggle.com/datasets/alihassanrevel/recipes/download?datasetVersionNumber=1
 
